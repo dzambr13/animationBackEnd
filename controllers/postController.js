@@ -1,5 +1,7 @@
 const { Post, Category } = require('../models')
 
+// createpost made
+
 const createPost = async (req, res) => {
   try {
     const post = await new Post(req.body)
@@ -34,16 +36,14 @@ const deletePost = async (req, res) => {
   }
 }
 
-const getPostsByCat = async (req,res) => {
+const getPostsByCat = async (req, res) => {
   try {
-    const posts = await Post.find({category: req.params.id})
+    const posts = await Post.find({ category: req.params.id })
     return res.status(200).json(posts)
   } catch (e) {
     return res.status(500).send(e.message)
   }
 }
-
-
 
 module.exports = {
   createPost,
