@@ -11,13 +11,13 @@
 
 ### **_Description_**
 
-#### **Our team will produce a marketplace app for independent coffee roasters to marker their blends directly to customers.**
+#### **A calm place where there's loud music and good vibes! Anime has it's diversity of genres and this is a place where enjoyers can share their thoughts and images!**
 
 #####
 
 ---
 
-### **_technologies used_**
+### **_Technologies used_**
 
 - MongoDB
 - Express
@@ -34,7 +34,19 @@
 
 ### Homepage
 
-![Homepage]()
+![Homepage](https://cdn.discordapp.com/attachments/1014901483860394064/1019555730791075881/unknown.png)
+
+### Profiles
+
+![Profiles](https://cdn.discordapp.com/attachments/1014901483860394064/1019560918364987442/unknown.png)
+
+### Add Post
+
+![AddPost](https://cdn.discordapp.com/attachments/1014901483860394064/1019562293870207028/unknown.png)
+
+### Edit Post
+
+![EditPost](https://cdn.discordapp.com/attachments/1014901483860394064/1019560977655668757/unknown.png)
 
 ---
 
@@ -48,6 +60,6 @@
 
 ### **_Credits_**
 
-#### [Heroku]()
+#### [Mongo]()
 
 #### [Trello]()
