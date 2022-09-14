@@ -55,3 +55,9 @@
 #### [Mongo]()
 
 #### [Trello](https://trello.com/b/KfrNL1LF/ourspace)
+
+#### [CSS](https://animate.style/)
+
+#### [Spotify](https://open.spotify.com/)
+
+#### [Viry](https://github.com/ViryF)
