@@ -15,7 +15,6 @@ app.use(logger('dev'))
 app.use(express.urlencoded({ extended: false }))
 app.use(express.static(`${__dirname}/client/build`))
 
-
 app.get('/categories', categoryController.getAllCategories)
 app.get('/categories/:id/posts', postController.getPostsByCat)
 app.get('/categories/:id', categoryController.getCategoryById)
@@ -26,11 +25,12 @@ app.put('/categories/:id/posts/:id', postController.updatePost)
 
 app.delete('/categories/:id/posts/:id', postController.deletePost)
 
-
 db.on('error', console.error.bind(console, 'MongoDB connection error:'))
 
 app.get('/*', (req, res) => {
   res.sendFile(`${__dirname}/client/build/index.html`)
-  })
-  
+})
+
+// server js made
+
 app.listen(PORT, () => console.log(`Listening on port: ${PORT}`))
