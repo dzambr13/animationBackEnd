@@ -1,7 +1,7 @@
 {
-  "name": "tattoos-blog",
+  "name": "animate",
   "version": "1.0.0",
-  "description": "***\r ## ***Description***\r ## This is a blog about tattoos. Anyone can view and create posts about tattoss that they like. The benefit of signing up for an account is that the user is able to follow people and posts from other people. Also, they are able to edit or delete their own posts. Whereas, if the user chooses to create or view posts with the anonymous option, they will not be able to edit or delete any of their previously submitted posts, and they will not be able to follow other users.  \r ***\r ## ***Technologies Used***\r * HTML\r * JavaScript\r * CSS\r * React\r * MongoDB\r ***\r ## ***Screenshots*** \r ### **Image header 1**\r ![Image](URLHERE)\r ### **Image header 2**\r ![Image](URLHERE)\r ***\r ## ***Future Updates***\r - [] Future Update 1\r - [] Future Update 2\r - [x] Completed Update\r - [x] ~~Strikethrough~~ Items Also\r ***\r ## ***Credits***\r ### Drawio planning: [Drawio](https://app.diagrams.net/#G1HqBklZtCe_kpwsLqxldE1KGB0gkDRmSF)\r ### Funny Images: [DuckDuckGo Search](URLHERE)\r ### Markdown Guide: [ia.net](https://ia.net/writer/support/general/markdown-guide) \r ### Markdown Cheatsheet: [GitHub](https://github.com/ViryF/u1_hw_markdown)",
+  "description": "A calm place where there's loud music and good vibes! Anime has it's diversity of genres and this is a place where enjoyers can share their thoughts and images!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViryF/Tattoos_Blog.git"
+    "url": "git+https://github.com/dzambr13/animationBackEnd"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ViryF/Tattoos_Blog/issues"
+    "url": "https://github.com/dzambr13/animationBackEnd"
   },
-  "homepage": "https://github.com/ViryF/Tattoos_Blog#readme",
+  "homepage": "https://github.com/dzambr13/animationBackEnd#readme",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
