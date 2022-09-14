@@ -32,21 +32,13 @@
 
 ### **_Screenshots_**
 
-### Homepage
+### ERD
 
-![Homepage](https://cdn.discordapp.com/attachments/1014901483860394064/1019555730791075881/unknown.png)
+![ERD](https://cdn.discordapp.com/attachments/994991543712751756/1019565180541214740/unknown.png)
 
-### Profiles
+### CHD
 
-![Profiles](https://cdn.discordapp.com/attachments/1014901483860394064/1019560918364987442/unknown.png)
-
-### Add Post
-
-![AddPost](https://cdn.discordapp.com/attachments/1014901483860394064/1019562293870207028/unknown.png)
-
-### Edit Post
-
-![EditPost](https://cdn.discordapp.com/attachments/1014901483860394064/1019560977655668757/unknown.png)
+![CHD](https://cdn.discordapp.com/attachments/994991543712751756/1019565256298733649/unknown.png)
 
 ---
 
@@ -62,4 +54,4 @@
 
 #### [Mongo]()
 
-#### [Trello]()
+#### [Trello](https://trello.com/b/KfrNL1LF/ourspace)
