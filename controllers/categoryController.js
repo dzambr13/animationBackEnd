@@ -33,6 +33,8 @@ const getCategoryById = async (req, res) => {
   }
 }
 
+//commit
+
 module.exports = {
   createCategory,
   getAllCategories,
